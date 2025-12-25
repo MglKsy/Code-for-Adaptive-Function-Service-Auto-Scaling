@@ -27,9 +27,6 @@ FsCode-master/
 │   ├── request_generator.py      # Script to send HTTP requests to the gateway
 │   ├── request_count_raw.json    # Original Azure Trace data
 │   └── request_count_boosted.json# Augmented Trace data (used for training)
-│
-└── kube/                         # Kubernetes configuration storage
-    └── config                    # (Downloaded automatically from the master node)
 
 ```
 
